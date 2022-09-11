@@ -1,0 +1,7 @@
+After installation of ghci
+Haskell files are saved with extension .hs
+To run file below commands are used:
+1)Type 'ghci' in terminal
+2)Then prelude will open 
+3)Type ':l file_name.hs'
+4)Then function name which you want to execute
